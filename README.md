@@ -37,3 +37,9 @@ I made online code-editor for HTML, CSS, JS code snippets using only HTML, CSS a
 - Below that I made a text editor using codemirror library. It supports syntax highlighting for HTML, CSS, and JS.
 - At bottom, I made an area for live preview using iframe and set a delay of 250ms before output appears.
 
+## SAMPLE OUTPUT
+
+Note: I used sample javascript code for calculating tip from internet to test my editor.
+
+<img width="1440" alt="Screenshot 2021-07-17 at 9 33 29 PM" src="https://user-images.githubusercontent.com/47441501/126042893-62640f46-6164-46b9-baca-93c512501706.png">
+
