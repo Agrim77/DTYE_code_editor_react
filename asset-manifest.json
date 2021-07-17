@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DTYE_code_editor_react/static/css/main.2a81af78.chunk.css",
+    "main.js": "/DTYE_code_editor_react/static/js/main.e307e0e7.chunk.js",
+    "main.js.map": "/DTYE_code_editor_react/static/js/main.e307e0e7.chunk.js.map",
+    "runtime-main.js": "/DTYE_code_editor_react/static/js/runtime-main.b58c6ac2.js",
+    "runtime-main.js.map": "/DTYE_code_editor_react/static/js/runtime-main.b58c6ac2.js.map",
+    "static/css/2.c46397a6.chunk.css": "/DTYE_code_editor_react/static/css/2.c46397a6.chunk.css",
+    "static/js/2.1c4cfd3b.chunk.js": "/DTYE_code_editor_react/static/js/2.1c4cfd3b.chunk.js",
+    "static/js/2.1c4cfd3b.chunk.js.map": "/DTYE_code_editor_react/static/js/2.1c4cfd3b.chunk.js.map",
+    "index.html": "/DTYE_code_editor_react/index.html",
+    "precache-manifest.41b0ecb1a406e1ab1ea474befc39ce54.js": "/DTYE_code_editor_react/precache-manifest.41b0ecb1a406e1ab1ea474befc39ce54.js",
+    "service-worker.js": "/DTYE_code_editor_react/service-worker.js",
+    "static/css/2.c46397a6.chunk.css.map": "/DTYE_code_editor_react/static/css/2.c46397a6.chunk.css.map",
+    "static/css/main.2a81af78.chunk.css.map": "/DTYE_code_editor_react/static/css/main.2a81af78.chunk.css.map",
+    "static/js/2.1c4cfd3b.chunk.js.LICENSE.txt": "/DTYE_code_editor_react/static/js/2.1c4cfd3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b58c6ac2.js",
+    "static/css/2.c46397a6.chunk.css",
+    "static/js/2.1c4cfd3b.chunk.js",
+    "static/css/main.2a81af78.chunk.css",
+    "static/js/main.e307e0e7.chunk.js"
+  ]
+}
